@@ -88,7 +88,8 @@ app.post('/search_product', urlencodedParser, function (req, res) {
 
 
 
-    res.write("<br/>my url: " + detail[1].productName+ "<br/>");
+    res.write("<br/>my url: " +"JSON object created"+ "<br/>");
     res.end("");
 });
+console.log("server current running on: http://127.0.0.1:2324");
 app.listen(2324);
