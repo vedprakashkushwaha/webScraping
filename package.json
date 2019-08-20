@@ -1,0 +1,28 @@
+{
+  "name": "minorproject",
+  "version": "1.0.0",
+  "description": "gene sequence analysis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedprakashkushwaha/minorProject.git"
+  },
+  "author": "ved",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedprakashkushwaha/minorProject/issues"
+  },
+  "homepage": "https://github.com/vedprakashkushwaha/minorProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-html-parser": "^1.1.16",
+    "parse": "^2.6.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.0",
+    "stream": "0.0.2"
+  }
+}
