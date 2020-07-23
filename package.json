@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "node-html-parser": "^1.1.16",
-    "parse": "^2.6.0",
+    "parse": "^2.10.0",
     "readline": "^1.3.0",
     "request": "^2.88.0",
     "stream": "0.0.2"
